@@ -1,8 +1,7 @@
 # CS-253 Python Assignment
 
 ## Overview
-This repository contains the Python assignment for the CS-253 course. The main focus of this assignment is to perform predictive modeling and data visualization based on a provided dataset.
-
+This repository contains the Python assignment for the CS-253 course. 
 ## Files and Directories
 - `main.ipynb`: This Jupyter Notebook contains all the code for loading data, processing it, training the model, evaluating its performance, and making predictions. It includes detailed steps from data preprocessing to model optimization using GridSearchCV.
 
